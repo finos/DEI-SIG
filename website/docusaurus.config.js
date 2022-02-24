@@ -1,29 +1,29 @@
 // Docs at https://v2.docusaurus.io/docs/configuration
 
 
-// Replace 'project-blueprint' with {project name}
+// Replace 'project-blueprint' with Diversity Equity & Inclusion Special Interest Group
 const projectName = 'Project Blueprint'
-// Replace 'project-blueprint' with {project name}
+// Replace 'project-blueprint' with Diversity Equity & Inclusion Special Interest Group
 const projectSlug = 'project-blueprint'
-// Replace 'FINOS' with {name of copyright owner}
+// Replace 'FINOS' with FINOS
 const copyrightOwner = 'FINOS'
 
 module.exports = {
-  title: `FINOS ${projectName}`,
-  tagline: `FINOS ${projectName}`, 
+  title: `FINOS Diversity Equity & Inclusion Special Interest Group `,
+  tagline: `FINOS Diversity Equity & Inclusion Special Interest Group `, 
   url: 'https://finos.org',
   baseUrl: '/',
   favicon: 'img/favicon/favicon-finos.ico',
-  projectName: `FINOS ${projectName}`,
+  projectName: `FINOS Diversity Equity & Inclusion Special Interest Group `,
   organizationName: 'FINOS',
   customFields: {
-    repoUrl: `https://github.com/finos/${projectSlug}`,
+    repoUrl: `https://github.com/finos/$DEI-SIG`,
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
   themeConfig: {
     navbar: {
-      title: `FINOS ${projectName}`,
+      title: `FINOS Diversity Equity & Inclusion Special Interest Group `,
       logo: {
         alt: 'FINOS Logo',
         src: 'img/favicon/favicon-finos.ico',
@@ -40,7 +40,7 @@ module.exports = {
       ],
     },
     footer: {
-      copyright: `Copyright © ${new Date().getFullYear()} ${projectName} - ${copyrightOwner}`,
+      copyright: `Copyright © ${new Date().getFullYear()} Diversity Equity & Inclusion Special Interest Group  - FINOS`,
       logo: {
         alt: 'FINOS Logo',
         src: 'img/favicon/favicon-finos.ico',

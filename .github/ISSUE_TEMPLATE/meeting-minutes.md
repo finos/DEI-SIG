@@ -1,7 +1,7 @@
 ---
-name: "\U0001F91D {project name} Meeting Minutes"
-about: To track {project name} meeting agenda and attendance
-title: DD MMM YYYY - {project name} Meeting Minutes
+name: "\U0001F91D Diversity Equity & Inclusion Special Interest Group Meeting Minutes"
+about: To track Diversity Equity & Inclusion Special Interest Group meeting agenda and attendance
+title: DD MMM YYYY - Diversity Equity & Inclusion Special Interest Group Meeting Minutes
 labels: meeting
 assignees: 
 
