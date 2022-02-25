@@ -1,7 +1,7 @@
 ---
-name: "\U0001F91D Diversity Equity & Inclusion Special Interest Group Meeting Minutes"
+name: "\U0001F91D Diversity Equity & Inclusion Special Interest Group Meeting"
 about: To track Diversity Equity & Inclusion Special Interest Group meeting agenda and attendance
-title: DD MMM YYYY - Diversity Equity & Inclusion Special Interest Group Meeting Minutes
+title: DD MMM YYYY - Diversity Equity & Inclusion Special Interest Group Meeting
 labels: meeting
 assignees: 
 
