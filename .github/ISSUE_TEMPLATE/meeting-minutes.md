@@ -45,7 +45,15 @@ YYYYMMDD - time
 - [ ] ...
 
 ### WebEx info
-- Meeting link: 
-- Meeting number: 
-- Password:
-- Call-in:
+**Meeting link:**
+- https://finos.webex.com/finos/j.php?MTID=m8c68bf14e3fce3cc567ffabaf30288d0
+
+**Meeting number:**
+- 2552 137 1430
+
+**Join by phone**
+- +1-415-655-0003 US Toll
+- +44-20319-88141 UK Toll
+
+**Access code:**
+- 2552 137 1430
