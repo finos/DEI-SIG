@@ -5,6 +5,9 @@ To demonstrably improve diversity of FINOS through increased participation of un
 Chair: [Melinda Aulie](@melindajoy) (Cosaic)
 
 Co-Chair: Alejandra Villagra (Citi)
+
+To get involved, send an email to FINOS DEI SIG (diversity-inclusion-committee@finos.org)
+
 ## Meetings
 
 ## Contributing
