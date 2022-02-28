@@ -1,6 +1,6 @@
 # Diversity Equity & Inclusion Special Interest Group
 
-Short blurb about what your project does.
+To demonstrably improve diversity of FINOS through increased participation of underrepresented people on the Board, among FINOS team members, and the FINOS community
 
 ## Meetings
 
