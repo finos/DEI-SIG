@@ -6,7 +6,7 @@ Chair: [Melinda Aulie](@melindajoy) (Cosaic)
 
 Co-Chair: Alejandra Villagra (Citi)
 
-To get involved, send an email to FINOS DEI SIG (diversity-inclusion-committee@finos.org)
+To get involved, send an email to [FINOS DEI SIG ](diversity-inclusion-committee@finos.org)
 
 ## Meetings
 
