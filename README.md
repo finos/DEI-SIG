@@ -27,6 +27,10 @@ _NOTE:_ Commits and pull requests to FINOS repositories will only be accepted fr
 ## DEI SIG Stream Leads
 <img width="1036" alt="DEI Stream leads" src="https://user-images.githubusercontent.com/54416992/168660686-2056ca02-bfe1-4852-9e7c-aa33afb41d53.png">
 
+## DEI SIG 2022 OKRs
+
+<img width="868" alt="Screen Shot 2022-05-16 at 12 09 48 PM" src="https://user-images.githubusercontent.com/54416992/168665399-2708aca0-fb97-4fdb-b084-9e65ca91e82c.png">
+
 
 ## License
 
