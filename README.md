@@ -3,6 +3,7 @@
 To demonstrably improve diversity of FINOS through increased participation of underrepresented people on the Board, among FINOS team members, and the FINOS community.  On January 19th 2022, the Board ratified this group operating as a Board committee to become a Special Interest Group.  
 
 Chair : Melinda Aulie (Cosaic) - @melindajoy (melinda@cosaic.io )
+
 Co-chair : Beeke Nelke - (Goldman Sachs) @beekemarie (Beeke-Marie.Nelke@gs.com)
 
 To get involved, send an email to [FINOS DEI SIG ](diversity-inclusion-committee@finos.org)
