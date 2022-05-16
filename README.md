@@ -23,6 +23,11 @@ _NOTE:_ Commits and pull requests to FINOS repositories will only be accepted fr
 
 *Need an ICLA? Unsure if you are covered under an existing CCLA? Email [help@finos.org](mailto:help@finos.org)*
 
+
+## DEI SIG Stream Leads
+<img width="1036" alt="DEI Stream leads" src="https://user-images.githubusercontent.com/54416992/168660686-2056ca02-bfe1-4852-9e7c-aa33afb41d53.png">
+
+
 ## License
 
 Copyright 2022 FINOS
@@ -30,6 +35,5 @@ Copyright 2022 FINOS
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
-<img width="1036" alt="DEI Stream leads" src="https://user-images.githubusercontent.com/54416992/168660564-90934018-5122-4559-8266-c1327068fd99.png">
 
 
