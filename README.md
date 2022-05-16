@@ -30,3 +30,6 @@ Copyright 2022 FINOS
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
+<img width="1036" alt="DEI Stream leads" src="https://user-images.githubusercontent.com/54416992/168660564-90934018-5122-4559-8266-c1327068fd99.png">
+
+
