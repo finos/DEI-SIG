@@ -6,7 +6,7 @@ Chair : Melinda Aulie (Cosaic) - @melindajoy (melinda@cosaic.io )
 
 Co-chair : Beeke Nelke - (Goldman Sachs) @beekemarie (Beeke-Marie.Nelke@gs.com)
 
-To get involved, send an email to [FINOS DEI SIG ](diversity-inclusion-committee@finos.org)
+To get involved, send an email to [FINOS DEI SIG](mailto:diversity-inclusion-committee@finos.org)
 
 ## Meetings
 

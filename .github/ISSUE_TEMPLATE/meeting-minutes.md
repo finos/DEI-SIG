@@ -46,7 +46,7 @@ YYYYMMDD - time
 
 ### WebEx info
 **Meeting link:**
-- https://finos.webex.com/finos/j.php?MTID=m8c68bf14e3fce3cc567ffabaf30288d0
+- https://zoom.us/j/98492160513
 
 **Meeting number:**
 - 2552 137 1430
