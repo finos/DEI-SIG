@@ -10,6 +10,8 @@ To get involved, send an email to [FINOS DEI SIG](mailto:diversity-inclusion-com
 
 ## Meetings
 
+The DEI SIG meets monthly on the first Tuesday. For more information, see the [FINOS Community calendar](https://www.finos.org/finos-community-calendar)
+
 
 ## DEI SIG Stream Leads
 <img width="1036" alt="DEI Stream leads" src="https://user-images.githubusercontent.com/54416992/168660686-2056ca02-bfe1-4852-9e7c-aa33afb41d53.png">
