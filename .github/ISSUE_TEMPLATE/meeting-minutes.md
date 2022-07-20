@@ -44,16 +44,8 @@ YYYYMMDD - time
 - [ ] Action 2
 - [ ] ...
 
-### WebEx info
-**Meeting link:**
-- https://zoom.us/j/98492160513
-
-**Meeting number:**
-- 2552 137 1430
-
-**Join by phone**
-- +1-415-655-0003 US Toll
-- +44-20319-88141 UK Toll
-
-**Access code:**
-- 2552 137 1430
+### Meeting Info
+Join Zoom Meeting
+https://zoom.us/j/98492160513
+Meeting ID: 984 9216 0513
+Passcode: 691166
