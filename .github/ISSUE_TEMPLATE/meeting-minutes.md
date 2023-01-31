@@ -9,7 +9,7 @@ assignees:
 
 
  ## Date
-YYYYMMDD - time
+YYYYMMDD - 12:00pm EST / 5pm GMT
 
 ## Untracked attendees
 - Fullname, Affiliation, (optional) GitHub username
