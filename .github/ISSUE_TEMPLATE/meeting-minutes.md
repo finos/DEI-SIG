@@ -46,6 +46,6 @@ YYYYMMDD - 12:00pm EST / 5pm GMT
 
 ### Meeting Info
 Join Zoom Meeting
-https://zoom.us/j/98492160513
-Meeting ID: 984 9216 0513
-Passcode: 691166
+https://zoom.us/j/94969868675
+Meeting ID: 949 6986 8675
+Passcode: 184472
