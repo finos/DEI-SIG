@@ -12,9 +12,6 @@ To get involved, send an email to [FINOS DEI SIG](mailto:diversity-inclusion-com
 
 The DEI SIG meets monthly on the first Tuesday. For more information, see the [FINOS Community calendar](https://www.finos.org/finos-community-calendar)
 
-
-## DEI SIG Stream Leads
-
 ## DEI SIG 2024 OKRs
 
 Being worked on for 2024.
