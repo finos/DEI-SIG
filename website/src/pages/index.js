@@ -34,7 +34,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={'https://github.com/finos'}>
+              to={'https://github.com/finos/DEI-SIG/'}>
               GITHUB
             </Link>
           </div>
