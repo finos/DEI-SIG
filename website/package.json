@@ -1,20 +1,37 @@
 {
   "scripts": {
+    "docusaurus": "docusaurus",
+    "deploy": "docusaurus deploy",
+    "serve": "docusaurus serve",
+    "clear": "docusaurus clear",
     "start": "docusaurus start",
     "swizzle": "docusaurus swizzle",
     "build": "docusaurus build",
     "publish-gh-pages": "docusaurus deploy"
   },
-  "devDependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.50",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.50",
-    "classnames": "^2.2.6",
-    "eslint": "^7.25.0",
-    "eslint-plugin-react": "^7.23.2",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2"
-  },
   "dependencies": {
-    "is-promise": "2.1.0"
+    "@docusaurus/core": "^3.1.0",
+    "@docusaurus/plugin-google-gtag": "^3.1.0",
+    "@docusaurus/preset-classic": "^3.1.0",
+    "classnames": "^2.5.1",
+    "prism-react-renderer": "^2.3.0",
+    "clsx": "^2.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=18.0"
   }
 }
