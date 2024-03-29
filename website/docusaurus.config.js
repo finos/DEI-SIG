@@ -2,9 +2,9 @@
 
 
 // Replace 'project-blueprint' with Diversity Equity & Inclusion Special Interest Group
-const projectName = 'Project Blueprint'
+const projectName = 'Diversity Equity & Inclusion Special Interest Group'
 // Replace 'project-blueprint' with Diversity Equity & Inclusion Special Interest Group
-const projectSlug = 'project-blueprint'
+const projectSlug = 'Diversity Equity & Inclusion Special Interest Group'
 // Replace 'FINOS' with FINOS
 const copyrightOwner = 'FINOS'
 
@@ -17,7 +17,7 @@ module.exports = {
   projectName: `FINOS Diversity Equity & Inclusion Special Interest Group `,
   organizationName: 'FINOS',
   customFields: {
-    repoUrl: `https://github.com/finos/$DEI-SIG`,
+    repoUrl: `https://github.com/finos/DEI-SIG`,
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
@@ -112,7 +112,7 @@ module.exports = {
         docs: {
           path: '../docs',
           editUrl:
-            'https://github.com/finos/open-developer-platform/edit/master/website/',
+            'https://github.com/finos/DEI-SIG/edit/main/website/',
           sidebarPath: require.resolve('./sidebars.js')
         },
         theme: {
