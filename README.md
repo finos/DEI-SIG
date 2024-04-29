@@ -2,15 +2,17 @@
 
 To demonstrably improve diversity of FINOS through increased participation of underrepresented people on the Board, among FINOS team members, and the FINOS community.  On January 19th 2022, the Board ratified this group operating as a Board committee to become a Special Interest Group.  
 
-Co-Chair : Rita Chaturvedi - (rita.chaturvedi@morganstanley.com)
+Co-Chair : Rita Chaturvedi - Morgan Stanley (rita.chaturvedi@morganstanley.com)
 
-Co-Chair : Beeke-Marie Nelke - (Goldman Sachs) @beekemarie (Beeke-Marie.Nelke@gs.com)
+Co-Chair : Sérgio Bettencourt - Citi (sergio.bettencourt@citi.com)
+
+Co-Chair : Paula Paul - Greyshore Associates (@paulapaul paula@greyshore.com)
 
 To get involved, send an email to [FINOS DEI SIG](mailto:diversity-inclusion-committee@finos.org)
 
 ## Meetings
 
-The DEI SIG meets monthly on the first Tuesday. For more information, see the [FINOS Community calendar](https://www.finos.org/finos-community-calendar)
+The DEI SIG meets monthly on the first Wednesday. For more information, see the [FINOS Community calendar](https://www.finos.org/finos-community-calendar)
 
 ## DEI SIG 2024 OKRs
 
