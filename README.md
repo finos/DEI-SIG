@@ -10,9 +10,10 @@ More recently, the DEI SIG has worked to deepen its breadth and impact to make i
 
 Key focus areas for the year included Accessibility;[advancing Responsible AI; Diversity & Open Source Talent Development as Key Pillars for Inclusive Technology](https://www.finos.org/blog/finos-dei-sig-advances-responsible-ai).
 
+## 2025 Plans
+
 Moving forward, the work of the DEI committee will continue to complement the work of [FINOS’ Open Source Readiness (OSR) SIG](https://www.finos.org/blog/open-source-readiness) to attract and empower a diverse talent pool in Financial Services Open Source that changes the status quo and drives a better future. 
 
-## 2025 Plans
 For 2025, we plan to launch a community event series for folks from underrepresented backgrounds and those who would like to support and champion them & drive meaningful change. Formats will focus on:
 - Knowledge transfer
 - Subject matter expertise
