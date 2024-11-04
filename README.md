@@ -13,14 +13,14 @@ Key focus areas for the year included:
 
 Moving forward, the work of the DEI committee will continue to complement the work of [FINOS’ Open Source Readiness (OSR) SIG](https://www.finos.org/blog/open-source-readiness) to attract and empower a diverse talent pool in Financial Services Open Source that changes the status quo and drives a better future. 
 
-### 2025 Plans
+## 2025 Plans
 For 2025, we plan to launch a community event series for folks from underrepresented backgrounds and those who would like to support and champion them & drive meaningful change. Formats will focus on:
 - Knowledge transfer
 - Subject matter expertise
 - Best practices
 - Networking for driving inclusion and talent development in the FINOS community.
 
-### Co-Chairs (2024)
+## Co-Chairs (2024)
 - **Rita Chaturvedi** - Morgan Stanley (rita.chaturvedi@morganstanley.com)
 - **Sérgio Bettencourt** - Citi (sergio.bettencourt@citi.com)
 - **Paula Paul** - Greyshore Associates (@paulapaul paula@greyshore.com)
@@ -29,7 +29,7 @@ For 2025, we plan to launch a community event series for folks from underreprese
 
 ---
 
-### Meetings
+## Meetings
 
 Join our next [DEI SIG meetings](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dmR0N3NsbmMyNmMza2UxNTM2NDg1MjBzamVfMjAyNDAzMDZUMTcwMDAwWiBmaW5vcy5vcmdfZmFjOG1vMXJmYzZlaHNjZzBkODBmaThqaWdAZw&tmsrc=finos.org_fac8mo1rfc6ehscg0d80fi8jig%40group.calendar.google.com) to contribute and collaborate on our expanded Vision! 
 
