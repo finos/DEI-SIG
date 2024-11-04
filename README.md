@@ -6,10 +6,9 @@
 
 Since first launching in 2022, FINOS’ DEI SIG has achieved strong momentum encouraging the participation of underrepresented groups and delivering keynote panels at [OSFF](https://events.linuxfoundation.org/open-source-finance-forum/); running federated events within the FINOS community and sharing best practice on open source in financial services with diverse communities such as [Anita B’s Grace Hopper Celebration](https://ghc.anitab.org/).
 
-More recently, the DEI SIG has worked to deepen its breadth and impact to make it part of our DNA and legacy. In 2024, we set further goals to create expanded SIG leadership and contributor opportunities; agree on priorities to develop, advance, and retain diverse talent; ensure FINOS projects are inclusive and events are diverse.
+More recently, the DEI SIG has worked to deepen its breadth and impact to make it part of our DNA and legacy. In 2024, we set further goals to create expanded SIG leadership and contributor opportunities; agree on priorities to develop, advance, and retain diverse talent; ensure FINOS projects are inclusive and events are diverse. 
 
-Key focus areas for the year included:
-- [Advancing Responsible AI; Diversity & Open Source Talent Development as Key Pillars for Inclusive Technology](https://www.finos.org/blog/finos-dei-sig-advances-responsible-ai).
+Key focus areas for the year included Accessibility;[advancing Responsible AI; Diversity & Open Source Talent Development as Key Pillars for Inclusive Technology](https://www.finos.org/blog/finos-dei-sig-advances-responsible-ai).
 
 Moving forward, the work of the DEI committee will continue to complement the work of [FINOS’ Open Source Readiness (OSR) SIG](https://www.finos.org/blog/open-source-readiness) to attract and empower a diverse talent pool in Financial Services Open Source that changes the status quo and drives a better future. 
 
