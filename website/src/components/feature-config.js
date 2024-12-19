@@ -27,7 +27,7 @@ export const features = [
             <>Get familiar with the best practices toolkits for DEI</>
         ),
         about: {
-            title: <>Get my to the Toolkits!</>,
+            title: <>Get to the Toolkits!</>,
             link: 'docs'
         },                
         project: {

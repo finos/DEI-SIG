@@ -19,7 +19,7 @@ module.exports = {
   customFields: {
     repoUrl: `https://github.com/finos/DEI-SIG`,
   },
-  scripts: ['https://buttons.github.io/buttons.js'],
+  scripts: ['https://buttons.github.io/buttons.js', 'https://kit.fontawesome.com/b9d83db3bd.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
   themeConfig: {
     navbar: {
