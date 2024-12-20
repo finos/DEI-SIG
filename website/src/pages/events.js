@@ -23,10 +23,17 @@ function EventsHome() {
           <section className={styles.features}>
             <div className="container">
               <div className="row">
-                <Event link={"a"} location={"b"} time={"c"} title={"d"}/>
+                <div className="col col--2 padding">
                 {events.map((props, idx) => (
                  <Event {...props} />
                 ))}
+                </div>
+                <div className="col col--2 padding">
+                {events.map((props, idx) => (
+                 <Event {...props} />
+                ))}
+                </div>
+
               </div>
             </div>
           </section>
