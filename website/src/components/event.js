@@ -8,6 +8,7 @@ export default function Event({ title, location, time, link }) {
     var defined = function (property) {
         return typeof property !== 'undefined';
     };
+    console.log(time);
     return (
         <div className={classnames('text--center col col--4 padding', styles.feature)}>
             <div><i class="fa-solid fa-calendar-day fa-lg"></i> {title}</div>
