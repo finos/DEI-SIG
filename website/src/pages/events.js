@@ -19,26 +19,28 @@ function EventsHome() {
                 <p>Stay connected with the pulse of Diversity, Equity, and Inclusion efforts within the FINOS community. Our calendar highlights a range of events, from global conferences and webinars to local meetups and workshops. These events are designed to foster collaboration, share best practices, and celebrate the diverse voices that make our community thrive. Whether you're looking to network, learn, or lead, there's an opportunity waiting for you. Explore the calendar and join us in driving meaningful change across the open source and financial technology landscapes.</p>
             </header>
             <main>
-            {events && events.length && (
-          <section className={styles.features}>
-            <div className="container">
-                <div className='col-xs-12'>
-              <div className="row">
-                <div className="col col-xs-6 padding">
-                {events.map((props, idx) => (
-                 <Event {...props} />
-                ))}
-                </div>
-                <div className="col col-xs-6 padding">
-                {events.map((props, idx) => (
-                 <Event {...props} />
-                ))}
-                </div>
-                </div>
-              </div>
-            </div>
-          </section>
-        )}
+                {events && events.length && (
+                    <section className={styles.features}>
+                        <div className="container">
+                            <div className='col-xs-12'>
+                                <div className="row">
+                                    <div className="col col-xs-6 padding">
+                                        <h2>Past Events</h2>
+                                        {events.map((props, idx) => (
+                                            <Event {...props} />
+                                        ))}
+                                    </div>
+                                    <div className="col col-xs-6 padding">
+                                        <h2>Upcoming Events</h2>
+                                        {events.map((props, idx) => (
+                                            <Event {...props} />
+                                        ))}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                )}
             </main>
         </Layout>
     );
