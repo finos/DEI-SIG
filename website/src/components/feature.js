@@ -3,8 +3,8 @@ import classnames from 'classnames';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from '../pages/styles.module.css';
 
-export default function Feature({imageUrl, title, description, about, project, involved}) {
-    const imgUrl = useBaseUrl(imageUrl);
+export default function Feature({title, description, about, project, involved, icon}) {
+//            <i className={classnames(icon)} style="color: #02b5e2;"></i>
 
     var defined = function(property){
         return typeof property !== 'undefined';
@@ -12,11 +12,7 @@ export default function Feature({imageUrl, title, description, about, project, i
 
     return (
         <div className={classnames('text--center col col--4 padding', styles.feature)}>
-            {imgUrl && (
-                <div>
-                <img className={styles.featureImage} src={imgUrl} alt={title} />
-                </div>
-            )}
+            <div>{icon}</div>
             <h3>{title}</h3>
             <p>{description}</p>
             <div className={classnames(styles.featureCTA)}>
