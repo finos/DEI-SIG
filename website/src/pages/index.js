@@ -33,6 +33,7 @@ function Home() {
           </section>
         )}
         <div className="container">
+          <h1>Getting Started</h1>
           <p>Welcome to the Diversity, Equity, and Inclusion (DEI) portal of the Fintech Open Source Foundation (FINOS). At FINOS, we believe that innovation thrives in an environment where diverse perspectives are celebrated, equitable opportunities are provided, and inclusive practices are embedded into the fabric of our community. Our mission is not only to advance open source collaboration in financial services but also to ensure that every voice is heard, valued, and empowered.</p>
 
           <p>The DEI initiatives at FINOS are designed to break barriers, foster meaningful connections, and create a safe space where individuals from all backgrounds can contribute and excel. Whether you're a seasoned contributor or a newcomer to the open source community, we are committed to supporting your journey and amplifying your impact.</p>

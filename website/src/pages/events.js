@@ -4,6 +4,8 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './styles.module.css';
+import Event from '../components/event';
+import { events } from '../components/event-config';
 
 function EventsHome() {
     const context = useDocusaurusContext();
@@ -12,7 +14,7 @@ function EventsHome() {
         <Layout
         title={`${siteConfig.title}`}
         description={`${siteConfig.tagline}`}>
-            <header className={classnames('hero hero--primary', styles.heroBanner)}></header>
+            <header></header>
             <main>
 
             </main>
