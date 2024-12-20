@@ -11,6 +11,7 @@ function Events() {
         <Layout
         title={`${siteConfig.title}`}
         description={`${siteConfig.tagline}`}>
+            <header className={classnames('hero hero--primary', styles.heroBanner)}></header>
             <main>
 
             </main>
