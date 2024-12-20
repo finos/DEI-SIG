@@ -28,13 +28,15 @@ function EventsHome() {
                                 <div className="row">
                                     <div className="col col-xs-6 padding">
                                         <h2>Past Events</h2>
-                                        {events.map((props, idx) => (
+                                        {events.filter(e => new Date(e.time) < Date.now()).
+                                        map((props, idx) => (
                                             <Event {...props} />
                                         ))}
                                     </div>
                                     <div className="col col-xs-6 padding">
                                         <h2>Upcoming Events</h2>
-                                        {events.map((props, idx) => (
+                                        {events.filter(e => new Date(e.time) >= Date.now()).
+                                        map((props, idx) => (
                                             <Event {...props} />
                                         ))}
                                     </div>
