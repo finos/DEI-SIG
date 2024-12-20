@@ -20,7 +20,7 @@ module.exports = {
     repoUrl: `https://github.com/finos/DEI-SIG`,
   },
   scripts: ['https://buttons.github.io/buttons.js', 'https://kit.fontawesome.com/b9d83db3bd.js'],
-  stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
+  stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css'],
   themeConfig: {
     navbar: {
       title: `FINOS Diversity Equity & Inclusion Special Interest Group `,
@@ -29,8 +29,6 @@ module.exports = {
         src: 'img/favicon/favicon-finos.ico',
       },
       items: [
-        {to: 'docs/home', label: 'Docs', position: 'right'},
-        {to: 'docs/roadmap', label: 'Roadmap', position: 'right'},
         {to: 'docs/team', label: 'Team', position: 'right'},
         {
           href: 'https://github.com/finos/',
@@ -50,14 +48,6 @@ module.exports = {
         {
           title: 'Docs',
           items: [
-            {
-              label: 'Getting Started',
-              to: 'docs/home',
-            },
-            {
-              label: 'Roadmap',
-              to: 'docs/roadmap',
-            },
             {
               label: 'Team',
               to: 'docs/team',

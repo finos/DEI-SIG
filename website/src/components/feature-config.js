@@ -3,13 +3,13 @@ import React from 'react';
 export const features = [
     {
         title: <>Events</>,
-        icon: 'fa-solid fa-calendar-day fa-2xl',
+        icon: 'fa-calendar-day',
         description: (
             <>Check out the upcoming and past events!</>
         ),
         about: {
             title: <>Global and Local Calendar</>,
-            link: 'docs'
+            link: 'events'
         },        
         project: {
             title: '',
@@ -22,13 +22,13 @@ export const features = [
     },
     {
         title: <>Best Practices</>,
-        icon: 'fa-solid fa-cubes fa-2xl',
+        icon: 'fa-cubes',
         description: (
             <>Get familiar with the best practices toolkits for DEI</>
         ),
         about: {
             title: <>Get to the Toolkits!</>,
-            link: 'docs'
+            link: 'bestpractices'
         },                
         project: {
             title: '',
@@ -41,13 +41,13 @@ export const features = [
     },
     {
         title: <>Talent Development</>,
-        icon: 'fa-solid fa-graduation-cap fa-2xl',
+        icon: 'fa-graduation-cap',
         description: (
             <>Get familiar with the internships, upskilling, non-developer interest and more!</>
         ),
         about: {
             title: <>Get Talented!</>,
-            link: 'docs'
+            link: 'talentdevelopment'
         },                
         project: {
             title: '',
