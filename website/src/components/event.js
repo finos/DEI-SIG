@@ -11,7 +11,6 @@ export default function Event({title, location, time, link}) {
 
     return (
         <div className={classnames('text--center col col--4 padding', styles.feature)}>
-            <i className={'fa-solid fa-5x fa-facebook'} style={{color: '#02b5e2'}}></i>
             <p>{title}</p>
             <p>{location}</p>
             <p>{time}</p>
