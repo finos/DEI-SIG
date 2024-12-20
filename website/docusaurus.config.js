@@ -9,8 +9,8 @@ const projectSlug = 'Diversity Equity & Inclusion Special Interest Group'
 const copyrightOwner = 'FINOS'
 
 module.exports = {
-  title: `FINOS Diversity Equity & Inclusion Special Interest Group `,
-  tagline: `FINOS Diversity Equity & Inclusion Special Interest Group `, 
+  title: `Diversity Equity & Inclusion`,
+  tagline: `FINOS DEI Special Interest Group`, 
   url: 'https://finos.org',
   baseUrl: '/',
   favicon: 'img/favicon/favicon-finos.ico',
