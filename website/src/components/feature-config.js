@@ -3,7 +3,7 @@ import React from 'react';
 export const features = [
     {
         title: <>Events</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        iconText: '<i class="fa-solid fa-graduation-cap" style="color: #02b5e2;"></i>',
         description: (
             <>Check out the upcoming and past events!</>
         ),

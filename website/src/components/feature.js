@@ -3,7 +3,7 @@ import classnames from 'classnames';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from '../pages/styles.module.css';
 
-export default function Feature({imageUrl, title, description, about, project, involved}) {
+export default function Feature({imageUrl, title, description, about, project, involved, iconText}) {
     const imgUrl = useBaseUrl(imageUrl);
 
     var defined = function(property){
@@ -17,6 +17,7 @@ export default function Feature({imageUrl, title, description, about, project, i
                 <img className={styles.featureImage} src={imgUrl} alt={title} />
                 </div>
             )}
+            {defined(iconText) && <div dangerouslySetInnerHTML={iconText}/>}
             <h3>{title}</h3>
             <p>{description}</p>
             <div className={classnames(styles.featureCTA)}>
