@@ -29,8 +29,6 @@ module.exports = {
         src: 'img/favicon/favicon-finos.ico',
       },
       items: [
-        {to: 'docs/home', label: 'Docs', position: 'right'},
-        {to: 'docs/roadmap', label: 'Roadmap', position: 'right'},
         {to: 'docs/team', label: 'Team', position: 'right'},
         {
           href: 'https://github.com/finos/',
@@ -50,14 +48,6 @@ module.exports = {
         {
           title: 'Docs',
           items: [
-            {
-              label: 'Getting Started',
-              to: 'docs/home',
-            },
-            {
-              label: 'Roadmap',
-              to: 'docs/roadmap',
-            },
             {
               label: 'Team',
               to: 'docs/team',
