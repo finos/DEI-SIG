@@ -11,7 +11,7 @@ export default function Feature({title, description, about, project, involved, i
 
     return (
         <div className={classnames('text--center col col--4 padding', styles.feature)}>
-            <i className={icon} style="color: #02b5e2;"/>
+            <i className={classnames(icon)} style="color: #02b5e2;"/>
             <h3>{title}</h3>
             <p>{description}</p>
             <div className={classnames(styles.featureCTA)}>
