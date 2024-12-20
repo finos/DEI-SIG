@@ -4,7 +4,7 @@ export const events = [
     {
         title: <>Test event</>,
         location: <>Times Square</>,
-        time: new Date(2024,12,21,18,0),
+        time: <>time</>,
         link: <>http://google.com</>
     }
 ];

@@ -25,7 +25,7 @@ function EventsHome() {
               <div className="row">
                 <Event link={"a"} location={"b"} time={"c"} title={"d"}/>
                 {events.map((props, idx) => (
-                  <div />
+                 <Event {...props} />
                 ))}
               </div>
             </div>
