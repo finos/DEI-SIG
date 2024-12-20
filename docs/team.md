@@ -1,4 +1,3 @@
-
 ---
 id: team
 title: Diversity Equity & Inclusion Special Interest Group Team
