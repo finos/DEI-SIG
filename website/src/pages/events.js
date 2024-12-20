@@ -15,7 +15,7 @@ function Events() {
 
             </main>
         </Layout>
-    )
+    );
 }
 
 export default Events;
