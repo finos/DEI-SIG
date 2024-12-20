@@ -20,7 +20,7 @@ module.exports = {
     repoUrl: `https://github.com/finos/DEI-SIG`,
   },
   scripts: ['https://buttons.github.io/buttons.js', 'https://kit.fontawesome.com/b9d83db3bd.js'],
-  stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
+  stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css'],
   themeConfig: {
     navbar: {
       title: `FINOS Diversity Equity & Inclusion Special Interest Group `,
