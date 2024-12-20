@@ -5,8 +5,9 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './styles.module.css';
 
-function Events() {
-
+function EventsHome() {
+    const context = useDocusaurusContext();
+    const {siteConfig = {}} = context;
     return (
         <Layout
         title={`${siteConfig.title}`}
@@ -19,4 +20,4 @@ function Events() {
     );
 }
 
-export default Events;
+export default EventsHome;
