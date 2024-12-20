@@ -23,6 +23,7 @@ function EventsHome() {
           <section className={styles.features}>
             <div className="container">
               <div className="row">
+                <Event link={"a"} location={"b"} time={"c"} title={"d"}/>
                 {events.map((props, idx) => (
                   <div />
                 ))}
