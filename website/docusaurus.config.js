@@ -9,8 +9,8 @@ const projectSlug = 'Diversity Equity & Inclusion Special Interest Group'
 const copyrightOwner = 'FINOS'
 
 module.exports = {
-  title: `FINOS Diversity Equity & Inclusion Special Interest Group `,
-  tagline: `FINOS Diversity Equity & Inclusion Special Interest Group `, 
+  title: `Diversity Equity & Inclusion`,
+  tagline: `FINOS DEI Special Interest Group`, 
   url: 'https://finos.org',
   baseUrl: '/',
   favicon: 'img/favicon/favicon-finos.ico',
@@ -19,7 +19,7 @@ module.exports = {
   customFields: {
     repoUrl: `https://github.com/finos/DEI-SIG`,
   },
-  scripts: ['https://buttons.github.io/buttons.js'],
+  scripts: ['https://buttons.github.io/buttons.js', 'https://kit.fontawesome.com/b9d83db3bd.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
   themeConfig: {
     navbar: {
@@ -73,7 +73,7 @@ module.exports = {
           items: [
             {
               label: 'FINOS Website',
-              to: 'https://regulationinnovation.org/air-events/',
+              to: 'https://finos.org/',
             },
             {
               label: 'Community Handbook',

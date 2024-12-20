@@ -2,13 +2,13 @@ import React from 'react';
 
 export const features = [
     {
-        title: <>Feature 1</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        title: <>Events</>,
+        icon: 'fa-solid fa-calendar-day fa-2xl',
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>Check out the upcoming and past events!</>
         ),
         about: {
-            title: <>Placeholder Link</>,
+            title: <>Global and Local Calendar</>,
             link: 'docs'
         },        
         project: {
@@ -21,13 +21,13 @@ export const features = [
         }  
     },
     {
-        title: <>Feature 2</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        title: <>Best Practices</>,
+        icon: 'fa-solid fa-cubes fa-2xl',
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>Get familiar with the best practices toolkits for DEI</>
         ),
         about: {
-            title: <>Placeholder Link</>,
+            title: <>Get to the Toolkits!</>,
             link: 'docs'
         },                
         project: {
@@ -40,13 +40,13 @@ export const features = [
         }  
     },
     {
-        title: <>Feature 3</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        title: <>Talent Development</>,
+        icon: 'fa-solid fa-graduation-cap fa-2xl',
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>Get familiar with the internships, upskilling, non-developer interest and more!</>
         ),
         about: {
-            title: <>Placeholder Link</>,
+            title: <>Get Talented!</>,
             link: 'docs'
         },                
         project: {
