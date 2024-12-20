@@ -3,7 +3,7 @@ import React from 'react';
 export const features = [
     {
         title: <>Events</>,
-        iconText: '<i class="fa-solid fa-graduation-cap" style="color: #02b5e2;"></i>',
+        icon: 'fa-solid fa-calendar-day',
         description: (
             <>Check out the upcoming and past events!</>
         ),
@@ -22,7 +22,7 @@ export const features = [
     },
     {
         title: <>Best Practices</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        icon: 'fa-solid fa-cubes',
         description: (
             <>Get familiar with the best practices toolkits for DEI</>
         ),
@@ -41,7 +41,7 @@ export const features = [
     },
     {
         title: <>Talent Development</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        icon: 'fa-solid fa-graduation-cap',
         description: (
             <>Get familiar with the internships, upskilling, non-developer interest and more!</>
         ),
