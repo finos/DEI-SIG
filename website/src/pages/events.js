@@ -9,14 +9,24 @@ import { events } from '../components/event-config';
 
 function EventsHome() {
     const context = useDocusaurusContext();
-    const {siteConfig = {}} = context;
+    const { siteConfig = {} } = context;
     return (
         <Layout
-        title={`${siteConfig.title}`}
-        description={`${siteConfig.tagline}`}>
+            title={`${siteConfig.title}`}
+            description={`${siteConfig.tagline}`}>
             <header></header>
             <main>
-
+                {events && events.length && (
+                    <section className={styles.features}>
+                        <div className="container">
+                            <div className="row">
+                                {events.map((props, idx) => (
+                                    <Event key={idx} {...props} />
+                                ))}
+                            </div>
+                        </div>
+                    </section>
+                )}
             </main>
         </Layout>
     );
