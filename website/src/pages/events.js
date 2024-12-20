@@ -22,18 +22,19 @@ function EventsHome() {
             {events && events.length && (
           <section className={styles.features}>
             <div className="container">
+                <div className='col-xs-12'>
               <div className="row">
-                <div className="col col--2 padding">
+                <div className="col col-xs-6 padding">
                 {events.map((props, idx) => (
                  <Event {...props} />
                 ))}
                 </div>
-                <div className="col col--2 padding">
+                <div className="col col-xs-6 padding">
                 {events.map((props, idx) => (
                  <Event {...props} />
                 ))}
                 </div>
-
+                </div>
               </div>
             </div>
           </section>
