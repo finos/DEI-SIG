@@ -24,7 +24,7 @@ function EventsHome() {
             <div className="container">
               <div className="row">
                 {events.map((props, idx) => (
-                  <Event key={idx} {...props} />
+                  <div />
                 ))}
               </div>
             </div>
