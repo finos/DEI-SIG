@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "^3.1.0",
-    "@docusaurus/plugin-google-gtag": "^3.1.0",
+    "@docusaurus/plugin-google-gtag": "^3.6.3",
     "@docusaurus/preset-classic": "^3.1.0",
     "classnames": "^2.5.1",
     "clsx": "^2.0.0",

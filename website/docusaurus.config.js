@@ -29,6 +29,7 @@ module.exports = {
         src: 'img/favicon/favicon-finos.ico',
       },
       items: [
+        {to: 'docs/meetings', label: 'Meetings', position: 'right'},
         {to: 'docs/team', label: 'Team', position: 'right'},
         {
           href: 'https://github.com/finos/',
@@ -49,29 +50,16 @@ module.exports = {
           title: 'Docs',
           items: [
             {
+              label: 'Meetings',
+              to: 'docs/meetings',
+            },
+            {
               label: 'Team',
               to: 'docs/team',
-            },
+            },            
             {
               label: 'About FINOS',
               to: 'docs/about-finos',
-            }
-          ]
-        },
-        {
-          title: 'FINOS',
-          items: [
-            {
-              label: 'FINOS Website',
-              to: 'https://finos.org/',
-            },
-            {
-              label: 'Community Handbook',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/80642059/Community+Handbook',
-            },
-            {
-              label: 'Community Governance',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530783/Community+Governance',
             }
           ]
         },

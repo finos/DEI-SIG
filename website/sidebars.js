@@ -1,5 +1,5 @@
 module.exports = {
   mainSidebar: {
-    'Main Menu': ["team", "about-finos"]
+    'Main Menu': ["meetings", "team", "about-finos"]
   },
 }
