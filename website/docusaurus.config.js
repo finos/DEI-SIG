@@ -95,6 +95,9 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        gtag: {
+          trackingID: 'G-QK9HW73NGJ'
         }
       }
     ]
