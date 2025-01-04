@@ -13,14 +13,14 @@ export default function Event({ title, location, time, link }) {
     };
 
     return (
-        <Card>
+        <Card border="primary" style={{marginBottom: '50px'}}>
             <Card.Body>
                 <Card.Title>
                     <i class="fa-solid fa-calendar-day fa-lg"></i> {title}
                 </Card.Title>
                 <Card.Text>
-                    <div><i class="fa-solid fa-location-dot fa-lg"></i> {location}</div>
-                    <div><i class="fa-solid fa-user-clock fa-lg"></i> {new Date(time).toLocaleString()}</div>
+                    <div><span style={{width: '27px',display: 'inline-block'}}><i class="fa-solid fa-location-dot fa-lg"></i></span> {location}</div>
+                    <div><span style={{width: '27px',display: 'inline-block'}}><i class="fa-solid fa-user-clock fa-lg"></i></span> {new Date(time).toLocaleString()}</div>
                 </Card.Text>
                 {new Date(time)>Date.now() ? 
                 <Button variant="primary" href={link} target="_blank"><i className="fa-solid fa-user-plus fa-lg"></i> Sign Up!</Button> :
