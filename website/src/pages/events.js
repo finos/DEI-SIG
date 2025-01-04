@@ -29,16 +29,19 @@ function EventsHome() {
                                     <div className="col col-xs-6 padding">
                                         <h2>Past Events</h2>
                                         {events.filter(e => new Date(e.time) < Date.now()).
-                                        map((props, idx) => (
-                                            <Event {...props} />
-                                        ))}
+                                            sort((a, b) => (new Date(a.time) < new Date(b.time))).
+                                            map((props, idx) => (
+                                                <Event {...props} />
+                                            ))}
                                     </div>
                                     <div className="col col-xs-6 padding">
                                         <h2>Upcoming Events</h2>
                                         {events.filter(e => new Date(e.time) >= Date.now()).
-                                        map((props, idx) => (
-                                            <Event {...props} />
-                                        ))}
+                                            sort((a, b) => (new Date(a.time) > new Date(b.time))).
+
+                                            map((props, idx) => (
+                                                <Event {...props} />
+                                            ))}
                                     </div>
                                 </div>
                             </div>

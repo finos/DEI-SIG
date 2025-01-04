@@ -23,8 +23,8 @@ export default function Event({ title, location, time, link }) {
                     <div><i class="fa-solid fa-user-clock fa-lg"></i> {new Date(time).toLocaleString()}</div>
                 </Card.Text>
                 {new Date(time)>Date.now() ? 
-                <Button variant="primary" href={link}><i className="fa-solid fa-user-plus fa-lg"></i> Sign Up!</Button> :
-                <Button variant="primary" href={link}><i className="fa-solid fa-images fa-lg"></i> Check out!</Button>
+                <Button variant="primary" href={link} target="_blank"><i className="fa-solid fa-user-plus fa-lg"></i> Sign Up!</Button> :
+                <Button variant="primary" href={link} target="_blank"><i className="fa-solid fa-images fa-lg"></i> Check out!</Button>
                 }
                 
             </Card.Body>
