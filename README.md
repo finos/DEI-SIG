@@ -1,6 +1,6 @@
 # Diversity Equity & Inclusion Special Interest Group
 
-<img src=".github/2022.DEI_SIG_Horizontal.png" width="100">
+<img src="./website/static/img/2022.DEI_SIG_Horizontal.png" width="100">
 
 ## FINOS DEI SIG Overview
 
@@ -20,7 +20,7 @@ For 2025, we plan to launch a community event series for folks from underreprese
 - Best practices
 - Networking for driving inclusion and talent development in the FINOS community.
 
-## Co-Chairs (2024)
+## Co-Chairs (2025)
 - **Rita Chaturvedi** - Morgan Stanley (rita.chaturvedi@morganstanley.com)
 - **Sérgio Bettencourt** - Citi (sergio.bettencourt@citi.com)
 - **Paula Paul** - Greyshore Associates (@paulapaul paula@greyshore.com)
@@ -31,9 +31,9 @@ For 2025, we plan to launch a community event series for folks from underreprese
 
 ## Meetings
 
-Join our next [DEI SIG meetings](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dmR0N3NsbmMyNmMza2UxNTM2NDg1MjBzamVfMjAyNDAzMDZUMTcwMDAwWiBmaW5vcy5vcmdfZmFjOG1vMXJmYzZlaHNjZzBkODBmaThqaWdAZw&tmsrc=finos.org_fac8mo1rfc6ehscg0d80fi8jig%40group.calendar.google.com) to contribute and collaborate on our expanded Vision! 
+Join our next [DEI SIG meetings](https://dei.finos.org/docs/meetings) to contribute and collaborate on our expanded Vision! 
 
-## DEI SIG 2024 Goals
+## DEI SIG Goals
 
 - Create opportunities to develop, advance and retain diverse talent
 - Ensuring our projects are inclusive - meet the needs of the underrepresented
@@ -41,7 +41,7 @@ Join our next [DEI SIG meetings](https://calendar.google.com/calendar/event?acti
 
 ## License
 
-Copyright 2022 FINOS
+Copyright 2025 FINOS
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
