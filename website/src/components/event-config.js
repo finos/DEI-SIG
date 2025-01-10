@@ -5,7 +5,7 @@ export const events = [
         title: "FINOS DEI Event Series",
         location: "Microsoft Times Square",
         time: "2025/01/21 18:00 EST",
-        link: "#"
+        link: "https://developer.microsoft.com/en-us/reactor/events/24760/"
     },
     {
         title: "First DEI Beer and Curry Night",
