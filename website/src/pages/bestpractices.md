@@ -1,4 +1,4 @@
-**Upcoming DEI Best Practices Toolkits**  
+# Upcoming DEI Best Practices Toolkits
 
 FINOS is excited to announce the development of new best practices toolkits aimed at empowering organizations and individuals to embed Diversity, Equity, and Inclusion (DEI) into every aspect of their work. These toolkits are designed to provide practical, actionable guidance to help you foster an inclusive culture, break down systemic barriers, and create equitable opportunities in your workplace and the broader open source ecosystem.  
 

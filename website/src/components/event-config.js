@@ -8,10 +8,16 @@ export const events = [
         link: "#"
     },
     {
-        title: "Test event 2",
-        location: "Times Square",
-        time: "2024/12/20 18:00",
-        link: "http://google.com"
+        title: "First DEI Beer and Curry Night",
+        location: "New York City",
+        time: "2024/04/23 18:00 EST",
+        link: "/event/20240423"
+    },
+    {
+        title: "Second DEI Beer and Curry Night",
+        location: "New York City",
+        time: "2024/11/21 18:00 EST",
+        link: "/event/20241121"
     },
     {
         title: "Financial Services Hackathon for Autism",

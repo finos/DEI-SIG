@@ -1,4 +1,4 @@
-**Explore Opportunities: Internships, Upskilling, and More**  
+# Explore Opportunities: Internships, Upskilling, and More
 
 At FINOS, we are committed to creating pathways for everyone to engage meaningfully in the open source and financial technology space, regardless of background or expertise. Whether you're a student exploring internship opportunities, a professional looking to upskill, or a non-developer curious about contributing to open source, we have resources and programs designed with you in mind.  
 
