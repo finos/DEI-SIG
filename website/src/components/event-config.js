@@ -28,7 +28,7 @@ export const events = [
     {
         title: "FINOS DEI Event Series",
         location: "Microsoft Times Square",
-        time: "2025/04/15 18:00 EST",
+        time: "2025/04/15 22:00 UTC",
         link: "#"
     }
 ];
