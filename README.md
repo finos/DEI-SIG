@@ -1,18 +1,18 @@
-# Diversity Equity & Inclusion Special Interest Group
+# Open Source Talent Acceleration Special Interest Group
 
 <img src="./website/static/img/2022.DEI_SIG_Horizontal.png" width="100">
 
-## FINOS DEI SIG Overview
+## FINOS Open Source Talent Acceleration SIG Overview
 
-Since first launching in 2022, FINOS’ DEI SIG has achieved strong momentum encouraging the participation of underrepresented groups and delivering keynote panels at [OSFF](https://events.linuxfoundation.org/open-source-finance-forum/); running federated events within the FINOS community and sharing best practice on open source in financial services with diverse communities such as [Anita B’s Grace Hopper Celebration](https://ghc.anitab.org/).
+Since first launching in 2022, FINOS’ Open Source Talent Acceleration SIG has achieved strong momentum encouraging the participation of underrepresented groups and delivering keynote panels at [OSFF](https://events.linuxfoundation.org/open-source-finance-forum/); running federated events within the FINOS community and sharing best practice on open source in financial services with diverse communities such as [Anita B’s Grace Hopper Celebration](https://ghc.anitab.org/).
 
-More recently, the DEI SIG has worked to deepen its breadth and impact to make it part of our DNA and legacy. In 2024, we set further goals to create expanded SIG leadership and contributor opportunities; agree on priorities to develop, advance, and retain diverse talent; ensure FINOS projects are inclusive and events are diverse. 
+More recently, the Open Source Talent Acceleration SIG has worked to deepen its breadth and impact to make it part of our DNA and legacy. In 2024, we set further goals to create expanded SIG leadership and contributor opportunities; agree on priorities to develop, advance, and retain diverse talent; ensure FINOS projects are inclusive and events are diverse. 
 
 Key focus areas for the year included Accessibility;[advancing Responsible AI; Diversity & Open Source Talent Development as Key Pillars for Inclusive Technology](https://www.finos.org/blog/finos-dei-sig-advances-responsible-ai).
 
 ## 2025 Plans
 
-Moving forward, the work of the DEI committee will continue to complement the work of [FINOS’ Open Source Readiness (OSR) SIG](https://www.finos.org/blog/open-source-readiness) to attract and empower a diverse talent pool in Financial Services Open Source that changes the status quo and drives a better future. 
+Moving forward, the work of the Open Source Talent Acceleration committee will continue to complement the work of [FINOS’ Open Source Readiness (OSR) SIG](https://www.finos.org/blog/open-source-readiness) to attract and empower a diverse talent pool in Financial Services Open Source that changes the status quo and drives a better future. 
 
 For 2025, we plan to launch a community event series for folks from underrepresented backgrounds and those who would like to support and champion them & drive meaningful change. Formats will focus on:
 - Knowledge transfer
@@ -31,9 +31,9 @@ For 2025, we plan to launch a community event series for folks from underreprese
 
 ## Meetings
 
-Join our next [DEI SIG meetings](https://dei.finos.org/docs/meetings) to contribute and collaborate on our expanded Vision! 
+Join our next [Open Source Talent Acceleration SIG meetings](https://dei.finos.org/docs/meetings) to contribute and collaborate on our expanded Vision! 
 
-## DEI SIG Goals
+## Open Source Talent Acceleration SIG Goals
 
 - Create opportunities to develop, advance and retain diverse talent
 - Ensuring our projects are inclusive - meet the needs of the underrepresented
