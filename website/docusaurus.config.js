@@ -1,20 +1,20 @@
 // Docs at https://v2.docusaurus.io/docs/configuration
 
 
-// Replace 'project-blueprint' with Diversity Equity & Inclusion Special Interest Group
-const projectName = 'Diversity Equity & Inclusion Special Interest Group'
-// Replace 'project-blueprint' with Diversity Equity & Inclusion Special Interest Group
-const projectSlug = 'Diversity Equity & Inclusion Special Interest Group'
+// Replace 'project-blueprint' with Open Source Talent Acceleration Special Interest Group
+const projectName = 'Open Source Talent Acceleration Special Interest Group'
+// Replace 'project-blueprint' with Open Source Talent Acceleration Special Interest Group
+const projectSlug = 'Open Source Talent Acceleration Special Interest Group'
 // Replace 'FINOS' with FINOS
 const copyrightOwner = 'FINOS'
 
 module.exports = {
-  title: `Diversity Equity & Inclusion`,
-  tagline: `FINOS DEI Special Interest Group`, 
+  title: `Open Source Talent Acceleration Special Interest Group`,
+  tagline: `FINOS Open Source Talent Acceleration Special Interest Group`, 
   url: 'https://finos.org',
   baseUrl: '/',
   favicon: 'img/favicon/favicon-finos.ico',
-  projectName: `FINOS Diversity Equity & Inclusion Special Interest Group `,
+  projectName: `FINOS Open Source Talent Acceleration Special Interest Group `,
   organizationName: 'FINOS',
   customFields: {
     repoUrl: `https://github.com/finos/DEI-SIG`,
@@ -23,7 +23,7 @@ module.exports = {
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css'],
   themeConfig: {
     navbar: {
-      title: `FINOS Diversity Equity & Inclusion Special Interest Group `,
+      title: `FINOS Open Source Talent Acceleration Special Interest Group`,
       logo: {
         alt: 'FINOS Logo',
         src: 'img/favicon/favicon-finos.ico',
@@ -39,7 +39,7 @@ module.exports = {
       ],
     },
     footer: {
-      copyright: `Copyright © ${new Date().getFullYear()} Diversity Equity & Inclusion Special Interest Group  - FINOS`,
+      copyright: `Copyright © ${new Date().getFullYear()} FINOS Open Source Talent Acceleration Special Interest Group  - FINOS`,
       logo: {
         alt: 'FINOS Logo',
         src: 'img/favicon/favicon-finos.ico',
